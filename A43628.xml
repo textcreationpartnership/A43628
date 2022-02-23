@@ -1,0 +1,150 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The most humble confession, and recantation of Edmund Hickeringill, clerk publicky made, read, sign'd and sealed in the Court of Arches, held before the Right Worshipful, Sir Richard Lloyd, knight and doctor of laws, in the absence of the Right Worshipful Sir Robert Wiseman, knight, and doctor of laws, principal official of the said court, in the common-hall of Doctors Commons, London, on Fryday the 27th day of June, in the year of our Lord, 1684.</title>
+            <author>Hickeringill, Edmund, 1631-1708.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A43628</idno>
+            <idno type="STC">Wing H1819</idno>
+            <idno type="STC">ESTC R10798</idno>
+            <idno type="EEBO-CITATION">11821241</idno>
+            <idno type="OCLC">ocm 11821241</idno>
+            <idno type="VID">49573</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A43628)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49573)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 496:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The most humble confession, and recantation of Edmund Hickeringill, clerk publicky made, read, sign'd and sealed in the Court of Arches, held before the Right Worshipful, Sir Richard Lloyd, knight and doctor of laws, in the absence of the Right Worshipful Sir Robert Wiseman, knight, and doctor of laws, principal official of the said court, in the common-hall of Doctors Commons, London, on Fryday the 27th day of June, in the year of our Lord, 1684.</title>
+                  <author>Hickeringill, Edmund, 1631-1708.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Benj. Tooke ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Broadside.</note>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hickeringill, Edmund, 1631-1708.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:49573:1"/>
+            <!-- PDF PAGE 18 -->
+            <pb facs="tcp:49573:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 18 -->
+            <head>The moſt Humble CONFESSION, AND RECANTATION OF <hi>Edmund Hickeringil, Clerk,</hi> Publickly Made, Read, Sign'd and Sealed in the COURT of ARCHES; Held before the Right Worſhipful, Sir <hi>Richard Lloyd,</hi> Knight, and Doctor of Laws, in the abſence of the Right Worſhipful Sir <hi>Robert Wiſeman,</hi> Knight, and Doctor of Laws, Principal Official of the ſaid Court; in the Common-Hall of Doctors Commons, <hi>London,</hi> on <date>
+                  <hi>Fryday</hi> the 27th day of <hi>June,</hi> in the Year of our Lord, 1684,</date>
+            </head>
+            <p>WHEREAS I <hi>Edmund Hickeringil</hi> Clerk, Rector of the Pariſh Church of <hi>All-Saints</hi> in <hi>Colcheſter,</hi> in the Dioceſs of <hi>London,</hi> and Province of <hi>Canterbu<g ref="char:EOLhyphen"/>ry,</hi> have, at the Promotion of the Right Reverend Father in God, <hi>Henry,</hi> by Divine Permiſſion, Lord Biſhop of <hi>London,</hi> my Reverend Dioceſan, been rightly and duly pro<g ref="char:EOLhyphen"/>ceeded againſt in this Court, for Solemnizing, or rather Prophaning of Marriages, between ſeveral Perſons in my ſaid Pariſh Church, Clan<g ref="char:EOLhyphen"/>deſtinely, without their Matrimonial Bannes being in their reſpective Pariſh-Churches firſt publiſhed, and denounced, or any Licenſe from Eccleſiaſtical Authority, being firſt had and obtained (though I made each Couple pay 5 <hi>s.</hi> for ſuch Licenſe) in Contempt of the Law, and Canons, and Conſtitutions Eccleſiaſtical, in that behalf provided, and upon Legal proof thereof made, have been, by Sentence in this Court, juſtly decreed (amongſt other things) to be ſuſpended for the ſame, for three years, according to the ſaid Canons; and was by the ſaid Sentence actually ſuſpended accordingly, under which Sentence of Suſpention I ſtill continue, the ſaid three years being not yet expired. And where<g ref="char:EOLhyphen"/>as during the dependance of the ſaid Suit, I appeared ſeveral times in the ſaid Court, and there demeaned my ſelf with great Impudence, de<g ref="char:EOLhyphen"/>nying the Juriſdiction thereof, to the great Affront of his Grace, the moſt Reverend Father in God, the Lord Arch-biſhop of <hi>Canterbury,</hi> Primate of all <hi>England,</hi> and Metropolitan (whoſe Court it is) refuſing to be uncovered, and to give that Reſpect and Reverence, which is juſtly due to the ſame, indeavouring by my inſolent and unmannerly Carriage and Behaviour there, to put all the Affronts, and the higheſt Contempts that I could, upon the ſaid Court, and to expoſe it to the Scorn of the Rabble that attended me there. And moreover, whereas I have lately, in ſeveral Libellous Books and Pamphlets, by me Writ<g ref="char:EOLhyphen"/>ten and Publiſhed, and particularly in theſe Books and Pamphlets, Inti<g ref="char:EOLhyphen"/>tuled as followeth, <hi>viz. The Second Part of Naked Truth: The Vindica<g ref="char:EOLhyphen"/>tion of Naked Truth: News from Doctors Commons: Scandalum Magna<g ref="char:EOLhyphen"/>tum:
+<pb facs="tcp:49573:2"/>
+                  <!-- PDF PAGE 19 -->Tryal at Chelmsford: The Muſhroom: The Black Non-Conformiſt: The Man-Catcher, and the Hiſtory of Whiggiſm,</hi> Publiſhed and Printed ſeveral Scandalous, Erroneous, and <hi>Seditious</hi> Principles, againſt His moſt Sacred Majeſty, and Government Eccleſiaſtical, to the Violati<g ref="char:EOLhyphen"/>on of my Duty, as a Subject, and a Prieſt, in Contempt of the Holy Church, and in Derogation of Eccleſiaſtical Juriſdiction, and the Autho<g ref="char:EOLhyphen"/>rity of the Biſhops, and Eccleſiaſtical Judges; by which means I have fomented and incited the Factious and Phanatical Party to Contemn the Government of the Church, as by Law Eſtabliſhed, and to perſiſt in their Errours and <hi>Sedition,</hi> to the great diſturbance of the Peace of this Church and Kingdom.</p>
+            <p>Now I, the ſaid <hi>Edmund Hickeringil,</hi> being truly, and deeply ſenſible, of the Heighnouſneſs of my Crimes, and Offences herein, and being truly, and heartily ſorry for the ſame. And taking ſhame to my ſelf, for having ſo highly offended Almighty God, the Kings moſt Sacred Majeſty, the Holy Church; and been ſo Scandalous to my Sacred Function, as a Prieſt, in particular, and as a Chriſti<g ref="char:EOLhyphen"/>an, to all Good People in general, do here openly, and in the Face of this Court, voluntarily, freely, and humbly acknowledge, and Confeſs, the Heynouſneſs of my ſaid Crimes and Offences, as alſo, that the ſaid Court, hath moſt juſtly Proceeded againſt me for the ſame. And I do alſo here publickly in the Face of this Court, Voluntarily and freely Recant, and Retract all, and every of thoſe Scandalous, Erroneous, and <hi>Seditious</hi> Principles, which I have publi<g ref="char:EOLhyphen"/>ſhed, and Printed, in my beforementioned Libellous Books, and Pamphlets, or in any of them. And I do here earneſtly, and hearti<g ref="char:EOLhyphen"/>ly, beg forgiveneſs, of all my above-mentioned Crimes, and Offen<g ref="char:EOLhyphen"/>ces againſt God Almighty, the Kings moſt Sacred Majeſty, the Holy Church, the Reverend Biſhops, and Eccleſiaſtical Judges, and more particularly againſt my moſt Reverend Metropolitan, and my right Reverend Dioceſan, and againſt this Court, againſt the Venerable Clergy of this Land, and againſt all Good Chriſtian People. And do here ſolemnly, and Seriouſly Promiſe, that (by Gods aſſiſtance) I will never for the Future, offend in the like nature again. And that all People may be ſatisfied of the truth, and ſincerity of my Repentance, for theſe my Crimes and Offences, I do now make it my humble requeſt, to this Court, that this my Confeſſion, and Re<g ref="char:EOLhyphen"/>cantation, may be forthwith Printed and Publiſhed. In witneſs where<g ref="char:EOLhyphen"/>of I have hereunto ſet my Hand and Seal this 27th, day of <hi>June,</hi> in the year our Lord, 1684.</p>
+            <closer>
+               <signed>Edmund Hickeringil.</signed>
+            </closer>
+            <postscript>
+               <p>THIS Confeſſion and Recantation, was Read, Signed, and Sealed by the ſaid <hi>Edmund Hickeringill</hi> in the Court, <hi>&amp;c.</hi> as aforeſaid.</p>
+               <closer>
+                  <signed>Ita Teſtor <hi>Thomas Tyllot</hi> Actuarius Deput.</signed>
+               </closer>
+            </postscript>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>I <hi>Do appoint</hi> Benjamin Tooke <hi>to Print the Recantation of</hi> Edmund Hickeringill.</p>
+            <closer>
+               <signed>Richard Lloyd.</signed>
+            </closer>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>London</hi> Printed for <hi>Benj. Tooke,</hi> at the <hi>Ship</hi> in St <hi>Paul's Church-Yard.</hi> 1684.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
